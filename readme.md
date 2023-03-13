@@ -14,3 +14,8 @@ Integration with Mailchimp API using @mailchimp/mailchimp_marketing npm package 
 
 1. Signup Page:
 
+![Screenshot 2023-03-13 223635](https://user-images.githubusercontent.com/101948218/224775187-c0c4254f-e377-4f57-a4dd-2ebbe62adc5a.png)
+
+2. Successfull submission
+
+![Screenshot 2023-03-13 223621](https://user-images.githubusercontent.com/101948218/224775263-5c4af693-8f66-479f-97ef-862e8af4ed0b.png)
